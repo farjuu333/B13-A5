@@ -38,3 +38,22 @@ Only elements that pass the test are included.
 forEach()
 It executes a function for each array element.
 It does not return a new array.
+4. What is an arrow function?
+ANSWER===>
+An arrow function is a modern way of writing functions in JavaScript, introduced in ES6 (ECMAScript 2015). It provides a shorter and more concise syntax compared to traditional functions.
+1.Short Syntax
+Arrow functions are shorter than regular functions.
+2.No function Keyword
+It uses the arrow symbol => instead of the function keyword.
+3.Implicit Return
+If there is only one expression, the return keyword can be omitted.
+4.Common Use
+Arrow functions are widely used with array methods such as map(), filter(), and forEach().
+5.What are template literals?
+ANSWER===>
+Template literals are a feature in JavaScript introduced in ES6 that allow easier string creation and formatting using backticks ( ) instead of single or double quotes.
+They support string interpolation, multi-line strings, and embedded expressions.
+1.Uses backticks ( ) instead of quotes.
+2.Allows embedding variables using ${}.
+3.Supports multi-line strings.
+4.Makes string formatting easier.

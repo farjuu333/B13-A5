@@ -215,7 +215,7 @@ async function showIssueDetails(id) {
                                 ${issue.description}
                             </div>
 
-                            <div class="flex gap-20 mt-4 border-t border-gray-50 pt-6">
+                            <div class="flex gap-6 md:gap-20 mt-4 border-t border-gray-50 pt-6">
                                 <div>
                                     <p class="text-[11px] font-bold text-gray-400 uppercase tracking-wider mb-1">Assignee:</p>
                                     <p class="font-bold text-gray-800 text-base">${issue.assignee}</p>
