@@ -26,3 +26,15 @@ Multiple arrays can be combined into a single array.
 3. Copying Objects
 The spread operator can also copy objects.
 4. Adding Elements to an Array.
+3.What is the difference between map(), filter(), and forEach()?
+ANSWER:===>
+map(), filter(), and forEach() are JavaScript array methods used to iterate over elements of an array.
+map()
+It creates a new array by applying a function to each element.
+The length of the new array remains the same as the original array.
+filter()
+It creates a new array with elements that satisfy a condition.
+Only elements that pass the test are included.
+forEach()
+It executes a function for each array element.
+It does not return a new array.
